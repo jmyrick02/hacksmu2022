@@ -1,0 +1,1 @@
+To run: `npx ts-node server.ts`
