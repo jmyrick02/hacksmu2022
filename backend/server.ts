@@ -1,3 +1,4 @@
+// @ts-ignore
 import express from 'express';
 
 const PORT = 8000;
